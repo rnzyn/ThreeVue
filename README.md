@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # three
 
 > A Vue.js project
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# ThreePhp
+三级分销php
+>>>>>>> 2ecd6d970d95ff07710ef46b3c1b7aecf1ab6154
